@@ -10,6 +10,8 @@ A simple rule-based chatbot using Flask (Python) with a clean web interface. It 
 - Tells random jokes
 - Suggests available commands
 
+## Folder structure
+
 chatbot/
 ├── app.py
 ├── templates/
